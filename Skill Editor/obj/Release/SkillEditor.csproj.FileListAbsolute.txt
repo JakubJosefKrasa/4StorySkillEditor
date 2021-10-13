@@ -1,0 +1,20 @@
+C:\Users\Kuba\Desktop\Moje Editory\SkillEditor - Jakub Josef Krása EP3\bin\Release\SkillEditor.exe.config
+C:\Users\Kuba\Desktop\Moje Editory\SkillEditor - Jakub Josef Krása EP3\bin\Release\SkillEditor.exe
+C:\Users\Kuba\Desktop\Moje Editory\SkillEditor - Jakub Josef Krása EP3\bin\Release\SkillEditor.pdb
+C:\Users\Kuba\Desktop\Moje Editory\SkillEditor - Jakub Josef Krása EP3\obj\Release\SkillEditor.csprojAssemblyReference.cache
+C:\Users\Kuba\Desktop\Moje Editory\SkillEditor - Jakub Josef Krása EP3\obj\Release\SkillEditor.Form1.resources
+C:\Users\Kuba\Desktop\Moje Editory\SkillEditor - Jakub Josef Krása EP3\obj\Release\SkillEditor.Properties.Resources.resources
+C:\Users\Kuba\Desktop\Moje Editory\SkillEditor - Jakub Josef Krása EP3\obj\Release\SkillEditor.csproj.GenerateResource.cache
+C:\Users\Kuba\Desktop\Moje Editory\SkillEditor - Jakub Josef Krása EP3\obj\Release\SkillEditor.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\Moje Editory\SkillEditor - Jakub Josef Krása EP3\obj\Release\SkillEditor.exe
+C:\Users\Kuba\Desktop\Moje Editory\SkillEditor - Jakub Josef Krása EP3\obj\Release\SkillEditor.pdb
+C:\Users\Kuba\Desktop\Skill Editor\bin\Release\SkillEditor.exe.config
+C:\Users\Kuba\Desktop\Skill Editor\bin\Release\SkillEditor.exe
+C:\Users\Kuba\Desktop\Skill Editor\bin\Release\SkillEditor.pdb
+C:\Users\Kuba\Desktop\Skill Editor\obj\Release\SkillEditor.csprojAssemblyReference.cache
+C:\Users\Kuba\Desktop\Skill Editor\obj\Release\SkillEditor.Form1.resources
+C:\Users\Kuba\Desktop\Skill Editor\obj\Release\SkillEditor.Properties.Resources.resources
+C:\Users\Kuba\Desktop\Skill Editor\obj\Release\SkillEditor.csproj.GenerateResource.cache
+C:\Users\Kuba\Desktop\Skill Editor\obj\Release\SkillEditor.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\Skill Editor\obj\Release\SkillEditor.exe
+C:\Users\Kuba\Desktop\Skill Editor\obj\Release\SkillEditor.pdb
